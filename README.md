@@ -17,5 +17,16 @@ You'll need to have the Rust toolchain installed on your system.
 Then, compiling and running `tictactoe` is as simple as:
 
 ```
-$ git clone 
+$ git clone https://github.com/slightknack/Tic-Tac-Toe.git
+$ cd Tic-Tac-Toe
+$ cargo run --release
 ```
+
+Why run in release mode, you ask? Why not, I respond.
+
+## Challenges
+Given that I only spent half an hour on this, I didn't do much more than needed to make this as cool as it could be.
+Right now, it supports play between two human players, though it is architected for easy extension.
+If you'd like, try implementing your own AI using the `Agent` trait.
+
+See ya!
