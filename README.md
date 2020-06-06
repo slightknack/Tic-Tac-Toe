@@ -31,5 +31,5 @@ Tic Tac Toe is architected for easy extension.
 If you'd like, try implementing your own AI using the `Agent` trait.
 
 Love,  
-Isaac Clayton (`@slightknack`)
+Isaac Clayton (`@slightknack`)  
 *Software Extraordinaire*
