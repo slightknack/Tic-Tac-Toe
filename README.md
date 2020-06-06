@@ -25,7 +25,7 @@ $ cargo run --release
 Why run in release mode, you ask? Why not, I respond.
 
 ## Challenges
-Given that I only spent half an hour on this, It's pretty ~~barebones~~ follows a minimalist design ideology.
+Given that I only spent half an hour on this, It's ~~pretty barebones~~ follows a minimalist design ideology.
 Out of the box, Tic Tac Toe supports play between two human players.
 Tic Tac Toe is architected for easy extension. 
 If you'd like, try implementing your own AI using the `Agent` trait.
